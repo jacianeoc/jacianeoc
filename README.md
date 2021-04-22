@@ -26,7 +26,7 @@ I'm a computer science student, enthusiast interested in web development, artifi
 
 <br><br>
 
-<img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=jacianeoc&theme=slateorange&show_icons=true"></img>
-<img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacianeoc&theme=slateorange&layout=compact"></img>  
+<img height="150" float="left" src="https://github-readme-stats.vercel.app/api?username=jacianeoc&theme=slateorange&show_icons=true"></img>
+<img height="150" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacianeoc&theme=slateorange&layout=compact"></img>  
 
 
