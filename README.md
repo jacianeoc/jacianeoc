@@ -1,9 +1,11 @@
 <a href="https://medium.com/@jaciane.cruz">
-  <img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+
 </a>
 
+
 <a href="https://www.linkedin.com/in/jaciane-cruz-669b72180/">
-  <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 ***
@@ -22,11 +24,15 @@ I'm a computer science student, enthusiast interested in web development, artifi
 <code><img src="https://img.icons8.com/color/30/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/officel/30/000000/react.png"/></code>
 
-- suggest me some book :blush:
+- :blush: suggest me some book 
+- :mailbox: How to reach me jaciane.cruz@ccc.ufcg.edu.br
+
+
 
 <br><br>
 
 <img height="150" float="left" src="https://github-readme-stats.vercel.app/api?username=jacianeoc&theme=slateorange&show_icons=true"></img>
 <img height="150" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacianeoc&theme=slateorange&layout=compact"></img>  
+
 
 
