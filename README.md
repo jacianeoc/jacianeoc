@@ -13,7 +13,7 @@
 ### Hi There    <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="60" height="50">
 
 
-I'm a computer science student, enthusiast interested in web development, artificial intelligence and ux design.
+I'm a computer scientist, and enthusiast interested in web development, artificial intelligence, and ux design.
 
 #### Technologies I'm into:<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="150" height="150" align="right" />
 <code><img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" alt="java" /></code>
